@@ -1,4 +1,4 @@
-# CookWise
+# CookWise (WIP)
 
 Una aplicación para buscar recetas de cocina tomando en cuenta ingredientes disponibles. Usa SwiftUI como interfaz para iOS/macOS y un backend en Vapor con base de datos MySQL.
 
